@@ -1,0 +1,20 @@
+{
+  "name": "pkg-avail-noncli",
+  "version": "1.0.0",
+  "description": "This is a non cli package to check npm package name availability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "availability",
+    "checker",
+    "npm name",
+    "npm package",
+    "npm registry"
+  ],
+  "author": "suraj chandra",
+  "license": "MIT"
+}
